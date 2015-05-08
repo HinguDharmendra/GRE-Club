@@ -1,0 +1,13 @@
+	<ul>
+		<li style="text-align: justify;">
+			If you are too lazy to do your work and may think that a counsellor will save your day.</li><br/>
+		<li style="text-align: justify;">
+			If you think joining a counsellor guarantees admission.</li><br/>
+		<li style="text-align: justify;">
+			If you think joining a counsellor guarantees obtaining visa, scholarships and financial aid.</li><br/>
+		<li style="text-align: justify;">
+			If you are scared that your application to the USA will go through a lot of problems if you work alone.</li><br/>
+	</ul>
+	<p style="text-align: justify;">
+		If you fall in the above mentioned categories (which usually you will), then you <em>SHOULD NOT</em> make the counsellors rich.</p>
+	

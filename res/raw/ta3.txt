@@ -1,0 +1,42 @@
+<p style="text-align: justify;">
+	TOEFL comprises of four sections:</p>
+<ol>
+	<li>
+		Reading</li><br/>
+	<li>
+		Listening</li><br/>
+	<li>
+		Speaking</li><br/>
+	<li>
+		Writing</li><br/>
+</ol>
+<p style="text-align: justify;">
+	<strong><span style="font-family: 'trebuchet ms',geneva;">Reading:</span></strong></p>
+<p style="text-align: justify;">
+	<span style="font-family: 'trebuchet ms',geneva;">This section is very similar to the RC section in GRE, with the only difference being that this one is VERY simple. There can be two formats in Reading: Short format or Long format.</span></p>
+<p style="text-align: justify;">
+	<span style="font-family: 'trebuchet ms',geneva;">-Short format consists of 3 passages each approximately 700 words in length and with 12-14 questions and overall time is 60 minutes. The passages are on academic topics</span></p>
+<p style="text-align: justify;">
+	<span style="font-family: 'trebuchet ms',geneva;">-Long format is 100 minutes duration and has 5 passages each approximately 700 words in length and with 12-14 questions. Of the 5 passages only 3 will be evaluated to get your score, the other 2 are experimental and do not matter at all. However, you have no idea which ones will matter and which ones won&rsquo;t, so you have to give your best in all.</span></p>
+<p style="text-align: justify;">
+	<strong><span style="font-family: 'trebuchet ms',geneva;">Listening:</span></strong></p>
+<p style="text-align: justify;">
+	<span style="font-family: 'trebuchet ms',geneva;">This is a new section for most of the students and it tests the student&rsquo;s listening skills. In this section you have to listen to entire conversations (A conversation involves two speakers, a student and either a professor or a campus service provider) or lectures at one go (which can be very boring). Again there can be two formats: Short or Long</span></p>
+<p style="text-align: justify;">
+	<span style="font-family: 'trebuchet ms',geneva;">-Short format consists of two conversations and four lectures each having 5-6 questions. Overall duration is 25-30 minutes.</span></p>
+<p style="text-align: justify;">
+	<span style="font-family: 'trebuchet ms',geneva;">-Long format consists of three conversations and six lectures each having 5-6 questions, of which two conversations and four lectures only will contribute to your score. The remaining are redundant but again you are kept in the dark about this, so give your best in all. Overall duration is 100 minutes.</span></p>
+<p style="text-align: justify;">
+	<span style="font-family: 'trebuchet ms',geneva;"><span style="text-decoration: underline;">NOTE:</span> If you get Short format in Reading, you will get Long format in Listening or the other way round.</span></p>
+<p style="text-align: justify;">
+	<strong><span style="font-family: 'trebuchet ms',geneva;">Speaking:</span></strong></p>
+<p style="text-align: justify;">
+	<span style="font-family: 'trebuchet ms',geneva;">Speaking sections tests the ability to communicate in English in an academic setting. It has six tasks. Tasks 1 &amp; 2 will prompt you to speak on some familiar topic like a personal experience. You are given 10-15 seconds to think and another 30 seconds to speak on each of the questions. Tasks 3 &amp; 4 require you to read a paragraph, followed by listening to a short conversation and then respond to a question about what you read and heard. In the next two questions you have to listen to an audio clip, remember the important points in it and then answer the questions based on it in 45-60 seconds. Overall duration of this section is 20 minutes.</span></p>
+<p style="text-align: justify;">
+	<strong><span style="font-family: 'trebuchet ms',geneva;">Writing:</span></strong></p>
+<p style="text-align: justify;">
+	<span style="font-family: 'trebuchet ms',geneva;">Although this is quite a different section, it should be comfortable section for those who have already appeared for GRE. You are required to write two essays: Integrated Essay and Independent Essay</span></p>
+<p style="text-align: justify;">
+	<span style="font-family: 'trebuchet ms',geneva;">-&nbsp;<span style="text-decoration: underline;">Integrated Essay:</span> You have to read on an academic topic for two minutes and listen to a speaker discuss the same topic for the next few minutes. You get 20 minutes to plan, write an revise an essay of around 150-225 words based on what you read and listened. The earlier paragraph is also made available to you while you write. However, the audio clip is available only once.</span></p>
+<p style="text-align: justify;">
+	<span style="font-family: 'trebuchet ms',geneva;">-&nbsp;<span style="text-decoration: underline;">Independent Essay:</span> In the independent task, you must write an essay that states, explains, and supports your opinion on an issue, supporting your opinions or choices, rather than simply listing personal preferences or choices. You are given 30 minutes for writing this in about 300-350 words.</span></p>

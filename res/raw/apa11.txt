@@ -1,0 +1,22 @@
+<p style="text-align: justify;">
+	Letter of Recommendation (LoR) helps the admission committee know about your technical, academic and non-academic expertise through your recommender. The content in the recommendation is extremely important. So, choose your recommenders wisely. There are certain areas on which the universities expect you to be rated by your receommender. They are as follows:</p>
+<ol>
+	<li style="text-align: justify;">
+		Current standing in your undergraduate class</li><br/>
+	<li style="text-align: justify;">
+		Comparison with the students who have gone for graduation in the same university</li><br/>
+	<li style="text-align: justify;">
+		Communication skills (Oral and written skills)</li><br/>
+	<li style="text-align: justify;">
+		Creativity</li><br/>
+	<li style="text-align: justify;">
+		How well he understands the subject</li><br/>
+	<li style="text-align: justify;">
+		Teaching Potential</li><br/>
+	<li style="text-align: justify;">
+		Emotional Maturity</li><br/>
+	<li style="text-align: justify;">
+		Recommendation with Financial aid or not</li><br/>
+	<li style="text-align: justify;">
+		How strongly they recommend you (Very strongly, strongly, moderately, etc.)</li><br/>
+</ol>

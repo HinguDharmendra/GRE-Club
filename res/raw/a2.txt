@@ -1,0 +1,6 @@
+<p style="text-align: justify;">
+	GRE are of two types:</p>
+<p style="text-align: justify;">
+	1. <strong>General Test:</strong> The General Test takes into account verbal reasoning, quantitative ability, and analytical writing skills. Almost all the universities accept the General test score and usually everyone opts for this test. It takes place round the year and you can choose your date according to your convenience.</p>
+<p style="text-align: justify;">
+	2. <strong>Subject Test:</strong> The Subject Test measures the achievement in a particular subject area or extensive background in that discipline. These tests are in the following areas: Biochemistry, Cell and Molecular Biology, Biology, Chemistry, Computer Science, Literature (English), Physics and Psychology. It is conducted on a fixed date for everyone, more on the terms of an entrance exam. Mostly none of the engineers go for this.</p>

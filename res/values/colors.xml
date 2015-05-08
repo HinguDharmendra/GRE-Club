@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+       <color name="titlebackgroundcolor">#2C77CC</color>
+       <color name="textBlue">#0099CC</color>
+       <color name="divider">#cc0000</color>
+       <color name="dark">#0099CC</color>
+       <color name="light">#CCCCCC</color>
+       <color name="white">#FFFFFF</color>
+       <color name="black">#000000</color>
+       <color name="green">#467c0e</color>
+       <color name="blue">#014595</color>
+</resources>

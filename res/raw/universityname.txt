@@ -1,0 +1,68 @@
+Arizona State University (ASU), Tempe
+Auburn University, Alabama
+Boston University
+California Institute of Technology (CalTech)
+Carnegie Mellon University (CMU)
+Case Western Reserve University, Cleveland, Ohio
+City University of New York, NYC (CUNY CCNY)
+Clemson University
+Columbia University in the city of New York
+Cornell University, Ithaca, New York
+Dartmouth University, Hanover, New Hampshire
+Duke University, North Carolina
+George Mason University (GMU), Fairfax County, Virginia
+George Washington University (GWU), Washington DC
+Georgia Institute of Technology (GaTech)
+Illinois Institute of Technology (IIT) - Chicago, Illinois
+Indiana University at Bloomington (IUB)
+Iowa State University
+Johns Hopkins University (JHU), Baltimore, Maryland
+Massachussetts Institute of Technology (MIT)
+Michigan State University (MSU)
+Michigan Technological University (MTU)
+North Carolina State University (NCSU)
+Northeastern University (NEU), Boston
+Northwestern University
+Ohio State University (OSU), Ohio
+Oklahoma State University
+Pennsylvania State University (Penn State)
+Polytechnic Institute of New York University (NYU Poly), New York
+Princeton University, New Jersey
+Purdue University, West Lafayette, Indiana
+Rensselaer Polytechnic Institute (RPI), New York
+Rochester Institute of Technology (RIT), New York
+Rutgers, The State University of New Jersey
+San Diego State University, California
+San Jose State University (SJSU), California
+Stanford University, California
+State University New York (SUNY), Buffalo
+State University of New York (SUNY), Stony Brook
+Syracuse University
+Texas A&M University (TAMU), College Station
+University of Arizona (U of A), Tucson
+University of California, Berkeley (UCB)
+University of California, Davis (UCD)
+University of California - Los Angeles (UCLA)
+University of California - Santa Barbara (UCSB)
+University of California San Diego (UCSD)
+University of Cincinnati (UCinn)
+University of Colorado at Boulder
+University of Connecticut (UConn), Storrs
+University of Delaware, Newark, Delaware
+University of Florida (UFL), Gainesville
+University of Idaho
+University of Illinois at Chicago (UIC)
+University of Illinois - Urbana Champaign(UIUC)
+University of Iowa
+University of Maryland - College Park (UMCP)
+University of Michigan, Ann Arbor (UMich)
+University of Minnesota - Twin Cities (UMTC)
+University of North Carolina at Charlotte (UNCC)
+University of Pennsylvania (UPenn)
+University of Pittsburgh (UPitt or Pitt), Pennsylvania
+University of Southern California (USC)
+University of Texas at Arlington (UTA)
+University of Texas - Austin
+University of Texas at Dallas (UTD)
+University of Utah, Salt Lake City
+Virginia Polytechnic Institute and State University (V.Tech)

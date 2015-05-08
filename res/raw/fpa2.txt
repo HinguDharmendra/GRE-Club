@@ -1,0 +1,79 @@
+
+<p>
+	<em style="color: rgb(218, 165, 32); ">Since August 2012, the VISA norms have changed. In the new procedure, students have to book an apointment for the&nbsp;Offsite Facilitation Center (OFC) a.k.a Biometrics (photo + fingerprints) followed by booking an appointment for the VISA interview.&nbsp;</em>&nbsp;&nbsp;<br />
+	<br />
+	&nbsp;Below are the steps one has to follow for applying a Student (F1) VISA.&nbsp;<br />
+	<br />
+	<strong>Step 1: DS-160 Form</strong><br />
+	The DS-160, Online Nonimmigrant Visa Application, is a fully integrated online application form that is used to collect the necessary application information from a person seeking a nonimmigrant visa for temporary travel to the United States.You can fill the DS-160 form here<strong>: </strong><a href="https://ceac.state.gov/genniv/" style="text-decoration: none;" target="_blank">https://ceac.state.gov/genniv/</a></p>
+<ul>
+	<li>
+		Complete DS-160 online application form.</li><br/>
+	<li>
+		Print the DS-160 barcode confirmation sheet at the end of the DS-160 application on a laser printer.</li><br/>
+	<li>
+		After you have printed it, email the confirmation page to yourself so you have a backup copy.</li><br/>
+</ul>
+<p>
+	<strong>Step 2: Registration at the designated bank/s</strong><br />
+	<strong> </strong></p>
+<ul>
+	<li>
+		Visa Application Fee is USD 160 &nbsp;+ VFS service charge + Bank charges which makes it a total amount, approx. Rs. 9000/-</li><br/>
+	<li>
+		The amount is payable by cash or DD/Cheque at Axis Bank or Citi Bank.</li><br/>
+	<li>
+		The bank will issue you a visa fee receipt in duplicate which will have a 10 digit barcode number affixed on it. You require this barcode number to schedule your interview appointment. It takes two days for the barcode to get activated.</li><br/>
+	<li>
+		The above fees are not refundable.</li><br/>
+	<li>
+		You must appear for visa interview within 1 year (365 days) from the date you purchased your fee receipt from Axis Bank or Citi Bank.</li><br/>
+	<li>
+		If you do not appear for an interview within one year after the purchase of your fee receipt, it will no longer be valid.</li><br/>
+</ul>
+<p>
+	<strong>Step 3: SEVIS FEE</strong></p>
+<ul>
+	<li>
+		Pay the SEVIS (Service and Exchange Visitor Information System) fee which is USD 200 on the following link:&nbsp;<a href="https://www.fmjfee.com/i901fee/" style="text-decoration: none;" target="_blank">https://www.fmjfee.com/i901fee/</a></li><br/>
+	<li>
+		Please print the SEVIS receipt.</li><br/>
+</ul>
+<p>
+	<strong>Step 4: VISA Appointment</strong><br />
+	<br />
+	1. Make your <a href="https://cgifederal.secure.force.com/?language=English&amp;country=India" target="_blank"><em>VISA appointment</em></a>&nbsp;using your barcode and fee receipt.<br />
+	<br />
+	2. Once you have scheduled your VISA interview date, you need to book an appointment for the OFC atleast a day before the interview. You can use the above link to book the OFC schedule.<br />
+	<br />
+	<em>Following are the things required while <strong>booking the OFC appoinement</strong>:</em></p>
+<ul>
+	<li>
+		Your passport number</li><br/>
+	<li>
+		The date you paid your fee</li><br/>
+	<li>
+		The ten (10) digit barcode number from your DS-160 confirmation page</li><br/>
+</ul>
+<p>
+	3. On the <strong>OFC day</strong>, you need to get:</p>
+<ul>
+	<li>
+		A passport valid for travel to the United States with a validity date at least six months beyond your intended period of stay in the United States (unless country-specific agreements provide exemptions)</li><br/>
+	<li>
+		Your DS-160 confirmation page</li><br/>
+	<li>
+		Your appointment confirmation page</li><br/>
+</ul>
+<p>
+	4. On the <strong>VISA interivew day</strong>, you need to get</p>
+<ul>
+	<li>
+		A printed copy of your appointment letter</li><br/>
+	<li>
+		Your DS-160 confirmation page, and one photograph taken within the last six months</li><br/>
+	<li>
+		Your current and all old passports, and</li><br/>
+	<li>
+		Original visa fee payment receipt</li><br/>
+</ul>

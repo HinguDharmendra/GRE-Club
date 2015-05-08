@@ -1,0 +1,3 @@
+<p style="text-align: justify;">
+The score is valid for two years.
+</p>

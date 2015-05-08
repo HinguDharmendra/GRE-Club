@@ -1,0 +1,22 @@
+<p style="text-align: justify;">
+	Packet (in application terms) is a set of documents enclosed in an envelope which is to be mailed physically to a university. A packet generally consists of the following:</p>
+<ul>
+	<li style="text-align: justify;">
+		<em>Cover letter:</em> It&rsquo;s a letter which states the list of documents you&rsquo;re sending inside the packet to the university. It consists of your application ID No. along with address of the college. The letter is directed to the admissions committee or the Graduate Admission office.</li><br/>
+	<li style="text-align: justify;">
+		<em>Official transcripts:</em> This is the most important document inside the packet. It&rsquo;s the official copy of your marks issued by your undergrad college and junior college (if required).</li><br/>
+	<li style="text-align: justify;">
+		<em>Resume:</em> Usually the resume is uploaded when you fill the application form but if there is no provision for it, then get a resume print out and send it along.</li><br/>
+	<li style="text-align: justify;">
+		<em>Attested Marksheets:</em> &nbsp;You have to get attested photocopies of your mark sheets of all attended semesters. The universities prefer that you get it attested by the Principal or the Registrar of the college.</li><br/>
+	<li style="text-align: justify;">
+		Attested photocopy of the passport</li><br/>
+	<li style="text-align: justify;">
+		Attested GRE and TOEFL scorecards</li><br/>
+	<li style="text-align: justify;">
+		Bank statement*</li><br/>
+	<li style="text-align: justify;">
+		Affidavit*</li><br/>
+</ul>
+<p style="text-align: justify;">
+	<em>Letters of Recommendation and Statement of Purpose are to be uploaded directly within the Application Form. </em>Over the last few years, universities have made a provision of uploading all the documents in their application form including official transcripts. So, we suggest you check with the concerned university before sending any packet.</p>
